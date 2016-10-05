@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="546a76a1-47ad-4226-aa5d-815f62a23191" name="Default" comment="" />
+    <list default="true" id="546a76a1-47ad-4226-aa5d-815f62a23191" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="angulartemplate.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -68,8 +70,8 @@
       <file leaf-file-name="controllers.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/controllers.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+            <state relative-caret-position="300">
+              <caret line="20" column="1" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -255,7 +257,7 @@
       <workItem from="1475628324886" duration="23000" />
       <workItem from="1475628728936" duration="1183000" />
       <workItem from="1475636280084" duration="247000" />
-      <workItem from="1475636542202" duration="9571000" />
+      <workItem from="1475636542202" duration="10518000" />
     </task>
     <task id="LOCAL-00001" summary="Angular Template project. This is the first commit.">
       <created>1475701114342</created>
@@ -264,11 +266,18 @@
       <option name="project" value="LOCAL" />
       <updated>1475701114342</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Angular Template project. This is the first commit.">
+      <created>1475702803325</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1475702803325</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12457000" />
+    <option name="totallyTimeSpent" value="13404000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1214" y="23" width="1344" height="1262" extended-state="0" />
@@ -519,8 +528,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        <state relative-caret-position="300">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="1" />
           <folding />
         </state>
       </provider>
