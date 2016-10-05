@@ -17,5 +17,8 @@ function PrivacyCtrl($scope, $http, $timeout) {
 function AboutCtrl($scope, $http, $timeout) {
 }
 
+function ChannelCtrl($scope, $http, $timeout) {
+}
+
 function StreamsCtrl($scope, $http) {
 }

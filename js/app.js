@@ -10,10 +10,10 @@
 var app = angular.module('ms-ang-temp-01', []).
     config(['$routeProvider', function ($routeProvider) {
       $routeProvider.
-        when('/', {
+        when('/channel', {
             templateUrl: 'pages/index.html',
-            activetab: 'projects',
-            controller: HomeCtrl
+            activetab: 'channel',
+            controller: ChannelCtrl
         }).
 
         when('/project/:projectId', {
@@ -22,13 +22,11 @@ var app = angular.module('ms-ang-temp-01', []).
             activetab: 'projects'
         }).
 
-
-      when('/home', {
-          templateUrl: 'pages/home.html',
-          controller: HomeCtrl,
-          activetab: 'home'
-      }).
-
+        when('/', {
+            templateUrl: 'pages/home.html',
+            controller: HomeCtrl,
+            activetab: 'home'
+        }).
 
         when('/privacy', {
             templateUrl: 'pages/privacy.html',
@@ -41,6 +39,7 @@ var app = angular.module('ms-ang-temp-01', []).
             controller: StreamsCtrl,
             activetab: 'streams'
         }).
+
         when('/about', {
             templateUrl: 'pages/about.html',
             controller: AboutCtrl,
